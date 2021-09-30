@@ -1,6 +1,6 @@
 - 👋 Hi, my name is @agnes-septilia
 - 🏡 I’m from Jakarta, Indonesia
-- 🌱 I’m currently interested in Data Science field. 
+- 🌱 I’m a new learner of Data Science field (language: R and Python)
 - 📫 You may reach me at agnes.septilia@gmail.com
 
 <!---
